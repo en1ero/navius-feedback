@@ -1,2 +1,2 @@
 # navius-feedback
-Bugs and feedback for navius Chrome extension
+Bugs and feedback for navius Chrome extension.
